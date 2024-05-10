@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+sou estudante do alura
 <!--
 **pedrohenriquealvesdapaz/pedrohenriquealvesdapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
